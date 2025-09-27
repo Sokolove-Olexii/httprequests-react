@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hm01-friends01/static/css/main.e6c13ad2.css",
+    "main.js": "/hm01-friends01/static/js/main.46cb8e59.js",
+    "index.html": "/hm01-friends01/index.html",
+    "main.e6c13ad2.css.map": "/hm01-friends01/static/css/main.e6c13ad2.css.map",
+    "main.46cb8e59.js.map": "/hm01-friends01/static/js/main.46cb8e59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.46cb8e59.js"
+  ]
+}
